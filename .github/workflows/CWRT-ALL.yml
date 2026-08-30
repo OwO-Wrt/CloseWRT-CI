@@ -65,7 +65,7 @@ jobs:
       #默认主机名
       WRT_NAME: Rax3000M
       #默认WIFI名称
-      WRT_SSID: OpenWrt_5G
+      WRT_SSID: OpenWrt
       #默认WIFI密码
       WRT_WORD: 88888888xia.
       #默认地址
